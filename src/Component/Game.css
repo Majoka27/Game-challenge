@@ -1,0 +1,27 @@
+.game-play :hover {
+    cursor: pointer;
+    background-color: red;
+    border-color: red;
+    color: aliceblue;
+}
+.game-play {
+    margin: 10rem 10rem 10rem 15rem !important;
+    /* margin-bottom: 10rem; */
+    width: 60%;
+    text-align: center !important;
+    border: none;
+    position: absolute;
+}
+.game-data :hover {
+    cursor: pointer;
+}
+.game {
+    margin-top: 10% !important;
+    height: 30rem !important;
+    width: 50rem !important;
+    margin: auto;
+}
+.game-data {
+    /* margin-left: 1rem !important;
+    margin-right: 1rem !important; */
+}
